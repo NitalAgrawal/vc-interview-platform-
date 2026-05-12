@@ -1,0 +1,23 @@
+{
+  "name": "talent-iq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend ",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitalAgrawal/vc-interview-platform-.git"
+
+  },
+  "keywords": [],
+  "author": "",    
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NitalAgrawal/vc-interview-platform-/issues"
+  },
+  "homepage": "https://github.com/NitalAgrawal/vc-interview-platform-#readme"
+}
